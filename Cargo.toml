@@ -1,0 +1,10 @@
+[package]
+name = "egui-timeline"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = "0.27.2"
+
+[dev-dependencies]
+eframe = "0.27.2"
