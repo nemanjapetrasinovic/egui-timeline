@@ -1,6 +1,6 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")] use egui::Color32;
 // hide console window on Windows in release
-use egui_timeline::Timeline;
+use egui_timeline_widget::Timeline;
 use eframe::egui;
 
 fn main() -> Result<(), eframe::Error> {
