@@ -1,14 +1,14 @@
 [package]
-name = "egui-timeline"
+name = "egui-timeline-widget"
 version = "0.1.0"
 edition = "2021"
 authors = ["Nemanja Petrasinovic"]
 description = "egui timeline widget"
-repository = "https://github.com/nemanjapetrasinovic/egui-timeline"
-homepage = "https://github.com/nemanjapetrasinovic/egui-timeline"
+repository = "https://github.com/nemanjapetrasinovic/egui-timeline-widget"
+homepage = "https://github.com/nemanjapetrasinovic/egui-timeline-widget"
 license = "GPL-3.0"
 readme = "README.md"
-keywords = ["egui", "timeline", "egui-timeline", "widget"]
+keywords = ["egui", "timeline", "egui-timeline", "widget", "timeline widget"]
 categories = ["egui-widgets"]
 
 [dependencies]

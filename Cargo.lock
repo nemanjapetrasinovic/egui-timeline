@@ -974,7 +974,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "egui-timeline"
+name = "egui-timeline-widget"
 version = "0.1.0"
 dependencies = [
  "eframe",
