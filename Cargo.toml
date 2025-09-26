@@ -8,7 +8,7 @@ repository = "https://github.com/nemanjapetrasinovic/egui-timeline-widget"
 homepage = "https://github.com/nemanjapetrasinovic/egui-timeline-widget"
 license = "GPL-3.0"
 readme = "README.md"
-keywords = ["egui", "timeline", "egui-timeline", "widget", "timeline widget"]
+keywords = ["egui", "timeline", "egui-timeline", "widget", "timeline-widget", "media", "media-control"]
 categories = ["egui-widgets"]
 
 [dependencies]
