@@ -2,7 +2,7 @@
 
 A customizable timeline widget for [egui](https://github.com/emilk/egui) designed for media applications. This widget provides an interactive timeline with seek functionality, perfect for video players or any application that needs to display and control media playback progress.
 
-![Timeline Widget](./media/image.png)
+![Timeline Widget](./media/example.gif)
 
 ## Features
 
