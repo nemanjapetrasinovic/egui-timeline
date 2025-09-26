@@ -9,7 +9,7 @@ homepage = "https://github.com/nemanjapetrasinovic/egui-timeline-widget"
 license = "GPL-3.0"
 readme = "README.md"
 keywords = ["egui", "timeline", "egui-timeline", "widget", "media"]
-categories = ["egui-widgets"]
+categories = ["gui", "graphics"]
 
 [dependencies]
 egui = "0.27.2"
